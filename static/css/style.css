@@ -1,4 +1,25 @@
 body {
-    background-color: black;
-    color: white
+    background-color: #252525;
+    color: #f0e7d5;
+}
+
+p {
+    color: #f0e7d5;
+}
+
+a {
+    color: #ffcc00;
+}
+
+table, th, td {
+    border: 1px solid #f0e7d5;
+}
+
+
+td p{
+    margin: 8px;
+}
+
+th p{
+    margin: 8px;
 }
