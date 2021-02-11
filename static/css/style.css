@@ -3,6 +3,10 @@ body {
     color: #f0e7d5;
 }
 
+h1, h2, h3, h4, h5{
+    color: #e8e8e8;
+  }
+
 p {
     color: #f0e7d5;
 }
@@ -22,4 +26,5 @@ td p{
 
 th p{
     margin: 8px;
+    color: #e8e8e8;
 }
